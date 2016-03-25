@@ -1,0 +1,533 @@
+
+before insert: 3887005, @ 2016-03-15 20:00:01
+before insert: 3887005, @ 2016-03-15 20:00:01
+spend 75.1043629646 seconds processing csv to mongodbafter insert: 7611640, @ 2016-03-15 20:01:16
+spend 92.5953559875 seconds processing csv to mongodbafter insert: 7809915, @ 2016-03-15 20:01:34
+before insert: 7809915, @ 2016-03-15 20:05:02
+before insert: 7809915, @ 2016-03-15 20:05:02
+spend 75.7177140713 seconds processing csv to mongodbafter insert: 11109378, @ 2016-03-15 20:06:17
+spend 93.5008540154 seconds processing csv to mongodbafter insert: 11560880, @ 2016-03-15 20:06:35
+before insert: 11677896, @ 2016-03-15 20:10:01
+before insert: 11677896, @ 2016-03-15 20:10:01
+spend 72.1003141403 seconds processing csv to mongodbafter insert: 15143738, @ 2016-03-15 20:11:13
+spend 84.9584281445 seconds processing csv to mongodbafter insert: 15504871, @ 2016-03-15 20:11:26
+before insert: 15541088, @ 2016-03-15 20:15:02
+before insert: 15541088, @ 2016-03-15 20:15:02
+spend 66.5584950447 seconds processing csv to mongodbafter insert: 18795159, @ 2016-03-15 20:16:08
+spend 86.8527340889 seconds processing csv to mongodbafter insert: 19300769, @ 2016-03-15 20:16:28
+before insert: 19432983, @ 2016-03-15 20:20:01
+before insert: 19432983, @ 2016-03-15 20:20:01
+spend 72.6301119328 seconds processing csv to mongodbafter insert: 22534020, @ 2016-03-15 20:21:14
+spend 77.0630869865 seconds processing csv to mongodbafter insert: 22747928, @ 2016-03-15 20:21:18
+before insert: 23345777, @ 2016-03-15 20:25:01
+before insert: 23345777, @ 2016-03-15 20:25:01
+spend 68.082903862 seconds processing csv to mongodbafter insert: 26433673, @ 2016-03-15 20:26:09
+spend 82.1749529839 seconds processing csv to mongodbafter insert: 27029850, @ 2016-03-15 20:26:23
+before insert: 27264292, @ 2016-03-15 20:30:02
+before insert: 27264292, @ 2016-03-15 20:30:02
+spend 77.0101749897 seconds processing csv to mongodbafter insert: 30521770, @ 2016-03-15 20:31:19
+spend 142.291158915 seconds processing csv to mongodbafter insert: 31159916, @ 2016-03-15 20:32:24
+before insert: 31159916, @ 2016-03-15 20:35:02
+before insert: 31159916, @ 2016-03-15 20:35:02
+spend 81.3377280235 seconds processing csv to mongodbafter insert: 34436820, @ 2016-03-15 20:36:23
+spend 142.800554991 seconds processing csv to mongodbafter insert: 35047824, @ 2016-03-15 20:37:24
+before insert: 35047824, @ 2016-03-15 20:40:01
+before insert: 35047824, @ 2016-03-15 20:40:01
+spend 75.1219680309 seconds processing csv to mongodbafter insert: 38630570, @ 2016-03-15 20:41:16
+spend 75.4155619144 seconds processing csv to mongodbafter insert: 38651526, @ 2016-03-15 20:41:16
+before insert: 38931176, @ 2016-03-15 20:45:01
+before insert: 38931176, @ 2016-03-15 20:45:01
+spend 103.090455055 seconds processing csv to mongodbafter insert: 42670175, @ 2016-03-15 20:46:44
+spend 111.783830881 seconds processing csv to mongodbafter insert: 42790389, @ 2016-03-15 20:46:53
+before insert: 42790389, @ 2016-03-15 20:50:02
+before insert: 42790389, @ 2016-03-15 20:50:02
+spend 91.6452929974 seconds processing csv to mongodbafter insert: 46009195, @ 2016-03-15 20:51:33
+spend 140.911891937 seconds processing csv to mongodbafter insert: 46679768, @ 2016-03-15 20:52:23
+before insert: 46679768, @ 2016-03-15 20:55:01
+before insert: 46679768, @ 2016-03-15 20:55:01
+spend 80.4311089516 seconds processing csv to mongodbafter insert: 49690867, @ 2016-03-15 20:56:22
+spend 107.807431936 seconds processing csv to mongodbafter insert: 50507033, @ 2016-03-15 20:56:49
+before insert: 50566773, @ 2016-03-15 21:00:01
+before insert: 50566773, @ 2016-03-15 21:00:01
+spend 92.8570420742 seconds processing csv to mongodbafter insert: 53964402, @ 2016-03-15 21:01:34
+spend 99.5394129753 seconds processing csv to mongodbafter insert: 54196909, @ 2016-03-15 21:01:40
+before insert: 54489683, @ 2016-03-15 21:05:01
+before insert: 54489683, @ 2016-03-15 21:05:01
+spend 93.398152113 seconds processing csv to mongodbafter insert: 57562444, @ 2016-03-15 21:06:34
+spend 103.453083038 seconds processing csv to mongodbafter insert: 58115751, @ 2016-03-15 21:06:44
+before insert: 58357664, @ 2016-03-15 21:10:01
+before insert: 58357664, @ 2016-03-15 21:10:01
+spend 92.4537060261 seconds processing csv to mongodbafter insert: 61817228, @ 2016-03-15 21:11:33
+spend 134.668198109 seconds processing csv to mongodbafter insert: 62220856, @ 2016-03-15 21:12:16
+before insert: 62220856, @ 2016-03-15 21:15:01
+before insert: 62220856, @ 2016-03-15 21:15:01
+spend 106.650064945 seconds processing csv to mongodbafter insert: 65814970, @ 2016-03-15 21:16:48
+spend 109.432940006 seconds processing csv to mongodbafter insert: 65940734, @ 2016-03-15 21:16:51
+before insert: 66112751, @ 2016-03-15 21:20:02
+before insert: 66112751, @ 2016-03-15 21:20:02
+spend 72.0662081242 seconds processing csv to mongodbafter insert: 69239643, @ 2016-03-15 21:21:14
+spend 75.1671111584 seconds processing csv to mongodbafter insert: 69455972, @ 2016-03-15 21:21:17
+before insert: 70025545, @ 2016-03-15 21:25:01
+before insert: 70025545, @ 2016-03-15 21:25:01
+spend 109.666039944 seconds processing csv to mongodbafter insert: 73543213, @ 2016-03-15 21:26:51
+spend 119.568370104 seconds processing csv to mongodbafter insert: 73816246, @ 2016-03-15 21:27:01
+before insert: 73944060, @ 2016-03-15 21:30:02
+before insert: 73944060, @ 2016-03-15 21:30:02
+spend 77.1092369556 seconds processing csv to mongodbafter insert: 77461879, @ 2016-03-15 21:31:19
+spend 169.134732008 seconds processing csv to mongodbafter insert: 77839684, @ 2016-03-15 21:32:51
+before insert: 77839684, @ 2016-03-15 21:35:02
+before insert: 77839684, @ 2016-03-15 21:35:02
+spend 62.6452839375 seconds processing csv to mongodbafter insert: 80685618, @ 2016-03-15 21:36:04
+spend 82.8778061867 seconds processing csv to mongodbafter insert: 81324881, @ 2016-03-15 21:36:24
+before insert: 81727592, @ 2016-03-15 21:40:01
+before insert: 81727592, @ 2016-03-15 21:40:01
+spend 80.4934809208 seconds processing csv to mongodbafter insert: 85350922, @ 2016-03-15 21:41:21
+spend 80.7681899071 seconds processing csv to mongodbafter insert: 85355113, @ 2016-03-15 21:41:22
+before insert: 85610944, @ 2016-03-15 21:45:01
+before insert: 85610944, @ 2016-03-15 21:45:01
+spend 67.1853609085 seconds processing csv to mongodbafter insert: 88598124, @ 2016-03-15 21:46:09
+spend 71.3173148632 seconds processing csv to mongodbafter insert: 88746975, @ 2016-03-15 21:46:13
+before insert: 89470157, @ 2016-03-15 21:50:01
+before insert: 89470157, @ 2016-03-15 21:50:01
+spend 87.0190010071 seconds processing csv to mongodbafter insert: 92497984, @ 2016-03-15 21:51:28
+spend 93.9855310917 seconds processing csv to mongodbafter insert: 92739367, @ 2016-03-15 21:51:35
+before insert: 93359536, @ 2016-03-15 21:55:01
+before insert: 93359536, @ 2016-03-15 21:55:01
+spend 62.3676729202 seconds processing csv to mongodbafter insert: 96300520, @ 2016-03-15 21:56:04
+spend 79.8991339207 seconds processing csv to mongodbafter insert: 96818397, @ 2016-03-15 21:56:21
+before insert: 97246541, @ 2016-03-15 22:00:01
+before insert: 97246541, @ 2016-03-15 22:00:01
+spend 83.0231180191 seconds processing csv to mongodbafter insert: 99592449, @ 2016-03-15 22:01:24
+spend 142.86579299 seconds processing csv to mongodbafter insert: 100667079, @ 2016-03-15 22:02:24
+before insert: 101169451, @ 2016-03-15 22:05:01
+before insert: 101169451, @ 2016-03-15 22:05:01
+spend 119.224161863 seconds processing csv to mongodbafter insert: 104693422, @ 2016-03-15 22:07:00
+spend 134.81873703 seconds processing csv to mongodbafter insert: 105037432, @ 2016-03-15 22:07:16
+before insert: 105037432, @ 2016-03-15 22:10:01
+before insert: 105037432, @ 2016-03-15 22:10:01
+spend 102.699092865 seconds processing csv to mongodbafter insert: 108431748, @ 2016-03-15 22:11:44
+spend 111.08991313 seconds processing csv to mongodbafter insert: 108605965, @ 2016-03-15 22:11:52
+before insert: 108900624, @ 2016-03-15 22:15:02
+before insert: 108900624, @ 2016-03-15 22:15:02
+spend 97.6911380291 seconds processing csv to mongodbafter insert: 112167765, @ 2016-03-15 22:16:40
+spend 161.167180061 seconds processing csv to mongodbafter insert: 112792519, @ 2016-03-15 22:17:43
+before insert: 112792519, @ 2016-03-15 22:20:01
+before insert: 112792519, @ 2016-03-15 22:20:01
+spend 127.421946049 seconds processing csv to mongodbafter insert: 116160663, @ 2016-03-15 22:22:08
+spend 127.578568935 seconds processing csv to mongodbafter insert: 116167880, @ 2016-03-15 22:22:08
+before insert: 116705313, @ 2016-03-15 22:25:01
+before insert: 116705313, @ 2016-03-15 22:25:01
+spend 71.7584609985 seconds processing csv to mongodbafter insert: 119772097, @ 2016-03-15 22:26:13
+spend 73.5148649216 seconds processing csv to mongodbafter insert: 119856390, @ 2016-03-15 22:26:15
+before insert: 120623828, @ 2016-03-15 22:30:01
+before insert: 120623828, @ 2016-03-15 22:30:01
+spend 116.672743082 seconds processing csv to mongodbafter insert: 123250268, @ 2016-03-15 22:31:58
+spend 136.771804094 seconds processing csv to mongodbafter insert: 123977377, @ 2016-03-15 22:32:18
+before insert: 124519452, @ 2016-03-15 22:35:01
+before insert: 124519452, @ 2016-03-15 22:35:01
+spend 62.0726850033 seconds processing csv to mongodbafter insert: 127330413, @ 2016-03-15 22:36:03
+spend 104.825827122 seconds processing csv to mongodbafter insert: 127701551, @ 2016-03-15 22:36:46
+before insert: 128407360, @ 2016-03-15 22:40:01
+before insert: 128407360, @ 2016-03-15 22:40:01
+spend 106.939771175 seconds processing csv to mongodbafter insert: 130846571, @ 2016-03-15 22:41:48
+spend 157.745366096 seconds processing csv to mongodbafter insert: 132290712, @ 2016-03-15 22:42:39
+before insert: 132290712, @ 2016-03-15 22:45:02
+before insert: 132290712, @ 2016-03-15 22:45:02
+spend 68.1821670532 seconds processing csv to mongodbafter insert: 135445184, @ 2016-03-15 22:46:10
+spend 243.059941053 seconds processing csv to mongodbafter insert: 136149925, @ 2016-03-15 22:49:05
+before insert: 136149925, @ 2016-03-15 22:50:01
+before insert: 136149925, @ 2016-03-15 22:50:01
+spend 69.9421639442 seconds processing csv to mongodbafter insert: 139457035, @ 2016-03-15 22:51:11
+spend 70.1340501308 seconds processing csv to mongodbafter insert: 139464734, @ 2016-03-15 22:51:12
+before insert: 140039304, @ 2016-03-15 22:55:01
+before insert: 140039304, @ 2016-03-15 22:55:01
+spend 75.6224110126 seconds processing csv to mongodbafter insert: 143032823, @ 2016-03-15 22:56:17
+spend 80.9400660992 seconds processing csv to mongodbafter insert: 143165176, @ 2016-03-15 22:56:22
+before insert: 143926309, @ 2016-03-15 23:00:01
+before insert: 143926309, @ 2016-03-15 23:00:01
+spend 97.5462260246 seconds processing csv to mongodbafter insert: 146785809, @ 2016-03-15 23:01:38
+spend 142.894212961 seconds processing csv to mongodbafter insert: 147789002, @ 2016-03-15 23:02:24
+before insert: 147849219, @ 2016-03-15 23:05:01
+before insert: 147849219, @ 2016-03-15 23:05:01
+spend 77.5455420017 seconds processing csv to mongodbafter insert: 151142793, @ 2016-03-15 23:06:19
+spend 241.218669891 seconds processing csv to mongodbafter insert: 151717200, @ 2016-03-15 23:09:03
+before insert: 151717200, @ 2016-03-15 23:10:01
+before insert: 151717200, @ 2016-03-15 23:10:01
+spend 70.6258239746 seconds processing csv to mongodbafter insert: 155259548, @ 2016-03-15 23:11:12
+spend 71.3819470406 seconds processing csv to mongodbafter insert: 155301712, @ 2016-03-15 23:11:13
+before insert: 155580392, @ 2016-03-15 23:15:01
+before insert: 155580392, @ 2016-03-15 23:15:01
+spend 90.6256759167 seconds processing csv to mongodbafter insert: 159428547, @ 2016-03-15 23:16:32
+spend 91.995057106 seconds processing csv to mongodbafter insert: 159472287, @ 2016-03-15 23:16:33
+before insert: 159472287, @ 2016-03-15 23:20:01
+before insert: 159472287, @ 2016-03-15 23:20:01
+spend 72.1653079987 seconds processing csv to mongodbafter insert: 163153651, @ 2016-03-15 23:21:13
+spend 73.9466400146 seconds processing csv to mongodbafter insert: 163238848, @ 2016-03-15 23:21:15
+before insert: 163385081, @ 2016-03-15 23:25:01
+before insert: 163385081, @ 2016-03-15 23:25:01
+spend 73.7921848297 seconds processing csv to mongodbafter insert: 166733590, @ 2016-03-15 23:26:15
+spend 168.543238878 seconds processing csv to mongodbafter insert: 167303596, @ 2016-03-15 23:27:49
+before insert: 167303596, @ 2016-03-15 23:30:01
+before insert: 167303596, @ 2016-03-15 23:30:01
+spend 120.387343884 seconds processing csv to mongodbafter insert: 170205427, @ 2016-03-15 23:32:01
+spend 135.315686941 seconds processing csv to mongodbafter insert: 170728137, @ 2016-03-15 23:32:16
+before insert: 171199220, @ 2016-03-15 23:35:01
+before insert: 171199220, @ 2016-03-15 23:35:01
+spend 111.426240921 seconds processing csv to mongodbafter insert: 174609121, @ 2016-03-15 23:36:52
+spend 116.859228134 seconds processing csv to mongodbafter insert: 174695920, @ 2016-03-15 23:36:58
+before insert: 175087128, @ 2016-03-15 23:40:01
+before insert: 175087128, @ 2016-03-15 23:40:01
+spend 78.2364859581 seconds processing csv to mongodbafter insert: 178626248, @ 2016-03-15 23:41:20
+spend 101.375422001 seconds processing csv to mongodbafter insert: 178970480, @ 2016-03-15 23:41:43
+before insert: 178970480, @ 2016-03-15 23:45:01
+before insert: 178970480, @ 2016-03-15 23:45:01
+spend 63.1793198586 seconds processing csv to mongodbafter insert: 181927822, @ 2016-03-15 23:46:05
+spend 76.0733749866 seconds processing csv to mongodbafter insert: 182364079, @ 2016-03-15 23:46:17
+before insert: 182649221, @ 2016-03-15 23:50:01
+before insert: 182649221, @ 2016-03-15 23:50:01
+spend 74.7778599262 seconds processing csv to mongodbafter insert: 186167578, @ 2016-03-15 23:51:16
+spend 91.4100959301 seconds processing csv to mongodbafter insert: 186398020, @ 2016-03-15 23:51:33
+before insert: 186719072, @ 2016-03-15 23:55:01
+before insert: 186719072, @ 2016-03-15 23:55:01
+spend 74.2928597927 seconds processing csv to mongodbafter insert: 190024935, @ 2016-03-15 23:56:16
+spend 178.866550922 seconds processing csv to mongodbafter insert: 190606077, @ 2016-03-15 23:58:00
+before insert: 190606077, @ 2016-03-16 01:00:01
+before insert: 190606077, @ 2016-03-16 01:00:01
+spend 119.561063051 seconds processing csv to mongodbafter insert: 193118143, @ 2016-03-16 01:02:01
+spend 143.946650982 seconds processing csv to mongodbafter insert: 194040998, @ 2016-03-16 01:02:25
+before insert: 194528987, @ 2016-03-16 01:05:01
+before insert: 194528987, @ 2016-03-16 01:05:01
+spend 157.007405996 seconds processing csv to mongodbafter insert: 197761118, @ 2016-03-16 01:07:38
+before insert: 198351751, @ 2016-03-16 01:10:01
+before insert: 198351751, @ 2016-03-16 01:10:01
+spend 310.01512599 seconds processing csv to mongodbafter insert: 198772663, @ 2016-03-16 01:10:11
+spend 88.9359710217 seconds processing csv to mongodbafter insert: 201545641, @ 2016-03-16 01:11:30
+spend 91.4946291447 seconds processing csv to mongodbafter insert: 201659075, @ 2016-03-16 01:11:33
+before insert: 202260160, @ 2016-03-16 01:15:01
+before insert: 202260160, @ 2016-03-16 01:15:01
+spend 122.320193052 seconds processing csv to mongodbafter insert: 205868760, @ 2016-03-16 01:17:04
+spend 129.573395014 seconds processing csv to mongodbafter insert: 206091838, @ 2016-03-16 01:17:11
+before insert: 206152055, @ 2016-03-16 01:20:02
+before insert: 206152055, @ 2016-03-16 01:20:02
+spend 71.6251540184 seconds processing csv to mongodbafter insert: 209910435, @ 2016-03-16 01:21:13
+spend 74.3330218792 seconds processing csv to mongodbafter insert: 209999803, @ 2016-03-16 01:21:16
+before insert: 210064849, @ 2016-03-16 01:25:01
+before insert: 210064849, @ 2016-03-16 01:25:01
+spend 71.2710688114 seconds processing csv to mongodbafter insert: 213802391, @ 2016-03-16 01:26:13
+spend 71.7738001347 seconds processing csv to mongodbafter insert: 213835940, @ 2016-03-16 01:26:13
+before insert: 213983364, @ 2016-03-16 01:30:01
+before insert: 213983364, @ 2016-03-16 01:30:01
+spend 81.0635240078 seconds processing csv to mongodbafter insert: 217631246, @ 2016-03-16 01:31:22
+spend 170.03429985 seconds processing csv to mongodbafter insert: 217807031, @ 2016-03-16 01:32:51
+before insert: 217878988, @ 2016-03-16 01:35:01
+before insert: 217878988, @ 2016-03-16 01:35:01
+spend 117.087018013 seconds processing csv to mongodbafter insert: 220998542, @ 2016-03-16 01:36:58
+spend 179.403352976 seconds processing csv to mongodbafter insert: 221766896, @ 2016-03-16 01:38:00
+before insert: 221766896, @ 2016-03-16 01:40:01
+before insert: 221766896, @ 2016-03-16 01:40:01
+spend 130.572966099 seconds processing csv to mongodbafter insert: 225438817, @ 2016-03-16 01:42:12
+spend 141.321877003 seconds processing csv to mongodbafter insert: 225650248, @ 2016-03-16 01:42:22
+before insert: 225650248, @ 2016-03-16 01:45:01
+before insert: 225650248, @ 2016-03-16 01:45:01
+spend 75.1811041832 seconds processing csv to mongodbafter insert: 229244966, @ 2016-03-16 01:46:16
+spend 81.3706769943 seconds processing csv to mongodbafter insert: 229454359, @ 2016-03-16 01:46:22
+before insert: 229509461, @ 2016-03-16 01:50:01
+before insert: 229509461, @ 2016-03-16 01:50:01
+spend 74.3893158436 seconds processing csv to mongodbafter insert: 233142195, @ 2016-03-16 01:51:16
+spend 79.8001449108 seconds processing csv to mongodbafter insert: 233343738, @ 2016-03-16 01:51:21
+before insert: 233398840, @ 2016-03-16 01:55:01
+before insert: 233398840, @ 2016-03-16 01:55:01
+spend 73.7667200565 seconds processing csv to mongodbafter insert: 236407498, @ 2016-03-16 01:56:15
+spend 209.448134899 seconds processing csv to mongodbafter insert: 237285845, @ 2016-03-16 01:58:30
+before insert: 237285845, @ 2016-03-16 02:00:01
+before insert: 237285845, @ 2016-03-16 02:00:01
+spend 96.4035909176 seconds processing csv to mongodbafter insert: 240589172, @ 2016-03-16 02:01:37
+spend 116.104846954 seconds processing csv to mongodbafter insert: 240858033, @ 2016-03-16 02:01:57
+before insert: 241139941, @ 2016-03-16 02:05:01
+before insert: 241139941, @ 2016-03-16 02:05:01
+spend 108.266029119 seconds processing csv to mongodbafter insert: 244412764, @ 2016-03-16 02:06:49
+spend 113.307866096 seconds processing csv to mongodbafter insert: 244477493, @ 2016-03-16 02:06:54
+before insert: 245076736, @ 2016-03-16 02:10:01
+before insert: 245076736, @ 2016-03-16 02:10:01
+spend 74.155559063 seconds processing csv to mongodbafter insert: 248425478, @ 2016-03-16 02:11:15
+spend 75.1344189644 seconds processing csv to mongodbafter insert: 248495140, @ 2016-03-16 02:11:16
+before insert: 248939928, @ 2016-03-16 02:15:01
+before insert: 248939928, @ 2016-03-16 02:15:01
+spend 96.7252509594 seconds processing csv to mongodbafter insert: 252465375, @ 2016-03-16 02:16:37
+spend 103.961009026 seconds processing csv to mongodbafter insert: 252608704, @ 2016-03-16 02:16:45
+before insert: 252831823, @ 2016-03-16 02:20:01
+before insert: 252831823, @ 2016-03-16 02:20:01
+spend 160.706096888 seconds processing csv to mongodbafter insert: 256229292, @ 2016-03-16 02:22:42
+spend 196.999550104 seconds processing csv to mongodbafter insert: 256696515, @ 2016-03-16 02:23:18
+before insert: 256744617, @ 2016-03-16 02:25:01
+before insert: 256744617, @ 2016-03-16 02:25:01
+spend 80.2342181206 seconds processing csv to mongodbafter insert: 259579076, @ 2016-03-16 02:26:21
+spend 178.613274097 seconds processing csv to mongodbafter insert: 260663132, @ 2016-03-16 02:28:00
+before insert: 260822940, @ 2016-03-16 02:30:10
+before insert: 260822940, @ 2016-03-16 02:30:10
+spend 165.98942399 seconds processing csv to mongodbafter insert: 264040903, @ 2016-03-16 02:32:56
+spend 172.764111996 seconds processing csv to mongodbafter insert: 264101642, @ 2016-03-16 02:33:03
+before insert: 264334314, @ 2016-03-16 02:35:01
+before insert: 264334314, @ 2016-03-16 02:35:01
+spend 107.481431961 seconds processing csv to mongodbafter insert: 267511152, @ 2016-03-16 02:36:49
+spend 137.690631151 seconds processing csv to mongodbafter insert: 268446664, @ 2016-03-16 02:37:19
+before insert: 268446664, @ 2016-03-16 02:40:01
+before insert: 268446664, @ 2016-03-16 02:40:01
+spend 87.5806200504 seconds processing csv to mongodbafter insert: 271938259, @ 2016-03-16 02:41:29
+spend 89.9945611954 seconds processing csv to mongodbafter insert: 271997100, @ 2016-03-16 02:41:31
+before insert: 272330016, @ 2016-03-16 02:45:02
+before insert: 272330016, @ 2016-03-16 02:45:02
+spend 89.8700060844 seconds processing csv to mongodbafter insert: 275766662, @ 2016-03-16 02:46:32
+spend 102.865350008 seconds processing csv to mongodbafter insert: 276004156, @ 2016-03-16 02:46:45
+before insert: 276189229, @ 2016-03-16 02:50:01
+before insert: 276189229, @ 2016-03-16 02:50:01
+spend 90.4305479527 seconds processing csv to mongodbafter insert: 279138745, @ 2016-03-16 02:51:32
+spend 107.860308886 seconds processing csv to mongodbafter insert: 279466689, @ 2016-03-16 02:51:49
+before insert: 280078608, @ 2016-03-16 02:55:01
+before insert: 280078608, @ 2016-03-16 02:55:01
+spend 120.43303299 seconds processing csv to mongodbafter insert: 283805133, @ 2016-03-16 02:57:01
+spend 126.459381819 seconds processing csv to mongodbafter insert: 283943850, @ 2016-03-16 02:57:07
+before insert: 283965613, @ 2016-03-16 03:00:01
+before insert: 283965613, @ 2016-03-16 03:00:01
+spend 81.4235630035 seconds processing csv to mongodbafter insert: 287080968, @ 2016-03-16 03:01:23
+spend 88.9559109211 seconds processing csv to mongodbafter insert: 287260348, @ 2016-03-16 03:01:30
+before insert: 287888523, @ 2016-03-16 03:05:01
+before insert: 287888523, @ 2016-03-16 03:05:01
+spend 256.397480011 seconds processing csv to mongodbafter insert: 291632688, @ 2016-03-16 03:09:18
+spend 263.264868975 seconds processing csv to mongodbafter insert: 291756504, @ 2016-03-16 03:09:24
+before insert: 291756504, @ 2016-03-16 03:10:02
+before insert: 291756504, @ 2016-03-16 03:10:02
+spend 95.4140620232 seconds processing csv to mongodbafter insert: 295227081, @ 2016-03-16 03:11:37
+spend 149.503175974 seconds processing csv to mongodbafter insert: 295619696, @ 2016-03-16 03:12:31
+before insert: 295670500, @ 2016-03-16 03:15:03
+before insert: 295670500, @ 2016-03-16 03:15:03
+spend 105.753251076 seconds processing csv to mongodbafter insert: 299113674, @ 2016-03-16 03:16:49
+spend 112.007601976 seconds processing csv to mongodbafter insert: 299291041, @ 2016-03-16 03:16:55
+before insert: 299511591, @ 2016-03-16 03:20:01
+before insert: 299511591, @ 2016-03-16 03:20:01
+spend 83.7028179169 seconds processing csv to mongodbafter insert: 303001870, @ 2016-03-16 03:21:25
+spend 87.0897519588 seconds processing csv to mongodbafter insert: 303129189, @ 2016-03-16 03:21:28
+before insert: 303424385, @ 2016-03-16 03:25:01
+before insert: 303424385, @ 2016-03-16 03:25:01
+spend 100.89796114 seconds processing csv to mongodbafter insert: 306696894, @ 2016-03-16 03:26:42
+before insert: 307168831, @ 2016-03-16 03:30:17
+before insert: 307168802, @ 2016-03-16 03:30:17
+spend 240.465178013 seconds processing csv to mongodbafter insert: 310938680, @ 2016-03-16 03:34:18
+spend 243.946328878 seconds processing csv to mongodbafter insert: 310944342, @ 2016-03-16 03:34:21
+spend 585.796179056 seconds processing csv to mongodbafter insert: 311238524, @ 2016-03-16 03:34:47
+before insert: 311238524, @ 2016-03-16 03:35:04
+before insert: 311238524, @ 2016-03-16 03:35:04
+spend 98.0940470695 seconds processing csv to mongodbafter insert: 314283255, @ 2016-03-16 03:36:42
+spend 125.51677084 seconds processing csv to mongodbafter insert: 315107907, @ 2016-03-16 03:37:10
+before insert: 315126432, @ 2016-03-16 03:40:03
+before insert: 315126432, @ 2016-03-16 03:40:03
+spend 81.4110600948 seconds processing csv to mongodbafter insert: 318385331, @ 2016-03-16 03:41:24
+spend 100.26402998 seconds processing csv to mongodbafter insert: 319009784, @ 2016-03-16 03:41:43
+before insert: 319009784, @ 2016-03-16 03:45:02
+before insert: 319009784, @ 2016-03-16 03:45:02
+spend 91.4774451256 seconds processing csv to mongodbafter insert: 322723170, @ 2016-03-16 03:46:34
+spend 92.4763710499 seconds processing csv to mongodbafter insert: 322799712, @ 2016-03-16 03:46:35
+before insert: 322868997, @ 2016-03-16 03:50:04
+before insert: 322868997, @ 2016-03-16 03:50:04
+spend 165.611115932 seconds processing csv to mongodbafter insert: 325977519, @ 2016-03-16 03:52:50
+spend 184.670161009 seconds processing csv to mongodbafter insert: 326266955, @ 2016-03-16 03:53:09
+before insert: 326758376, @ 2016-03-16 03:55:03
+before insert: 326758376, @ 2016-03-16 03:55:03
+spend 112.359747887 seconds processing csv to mongodbafter insert: 330154225, @ 2016-03-16 03:56:55
+spend 129.110950947 seconds processing csv to mongodbafter insert: 330611520, @ 2016-03-16 03:57:12
+before insert: 330645381, @ 2016-03-16 04:00:02
+before insert: 330645381, @ 2016-03-16 04:00:02
+spend 98.7180089951 seconds processing csv to mongodbafter insert: 334250904, @ 2016-03-16 04:01:41
+spend 104.261080027 seconds processing csv to mongodbafter insert: 334431840, @ 2016-03-16 04:01:47
+before insert: 334568291, @ 2016-03-16 04:05:03
+before insert: 334568291, @ 2016-03-16 04:05:03
+spend 109.757966995 seconds processing csv to mongodbafter insert: 338246160, @ 2016-03-16 04:06:53
+spend 112.2610991 seconds processing csv to mongodbafter insert: 338376055, @ 2016-03-16 04:06:56
+before insert: 338436272, @ 2016-03-16 04:10:03
+before insert: 338436272, @ 2016-03-16 04:10:03
+spend 153.492905855 seconds processing csv to mongodbafter insert: 341387213, @ 2016-03-16 04:12:36
+before insert: 341866199, @ 2016-03-16 04:15:06
+before insert: 341866199, @ 2016-03-16 04:15:06
+spend 131.384594917 seconds processing csv to mongodbafter insert: 345266675, @ 2016-03-16 04:17:17
+spend 133.542845964 seconds processing csv to mongodbafter insert: 345283447, @ 2016-03-16 04:17:19
+before insert: 345885295, @ 2016-03-16 04:20:04
+before insert: 345885295, @ 2016-03-16 04:20:04
+spend 200.92793417 seconds processing csv to mongodbafter insert: 349277422, @ 2016-03-16 04:23:25
+spend 242.070190907 seconds processing csv to mongodbafter insert: 349936331, @ 2016-03-16 04:24:06
+spend 855.8073349 seconds processing csv to mongodbafter insert: 350104153, @ 2016-03-16 04:24:19
+before insert: 350104153, @ 2016-03-16 04:25:02
+before insert: 350104153, @ 2016-03-16 04:25:02
+spend 100.426286936 seconds processing csv to mongodbafter insert: 353713487, @ 2016-03-16 04:26:43
+spend 105.750430107 seconds processing csv to mongodbafter insert: 353895610, @ 2016-03-16 04:26:48
+before insert: 354022668, @ 2016-03-16 04:30:02
+before insert: 354022668, @ 2016-03-16 04:30:02
+spend 74.9916331768 seconds processing csv to mongodbafter insert: 357322133, @ 2016-03-16 04:31:17
+spend 96.8977789879 seconds processing csv to mongodbafter insert: 357918292, @ 2016-03-16 04:31:39
+before insert: 357918292, @ 2016-03-16 04:35:02
+before insert: 357918292, @ 2016-03-16 04:35:02
+spend 90.6690051556 seconds processing csv to mongodbafter insert: 361632235, @ 2016-03-16 04:36:33
+spend 98.7742359638 seconds processing csv to mongodbafter insert: 361806200, @ 2016-03-16 04:36:41
+before insert: 361806200, @ 2016-03-16 04:40:04
+before insert: 361806200, @ 2016-03-16 04:40:04
+spend 143.815671206 seconds processing csv to mongodbafter insert: 364955441, @ 2016-03-16 04:42:27
+spend 180.512800217 seconds processing csv to mongodbafter insert: 365689552, @ 2016-03-16 04:43:04
+before insert: 365689552, @ 2016-03-16 04:45:03
+before insert: 365689552, @ 2016-03-16 04:45:03
+spend 83.9327030182 seconds processing csv to mongodbafter insert: 368799500, @ 2016-03-16 04:46:27
+spend 95.0304059982 seconds processing csv to mongodbafter insert: 369157807, @ 2016-03-16 04:46:38
+before insert: 369548765, @ 2016-03-16 04:50:02
+before insert: 369548765, @ 2016-03-16 04:50:02
+spend 101.449342012 seconds processing csv to mongodbafter insert: 373209235, @ 2016-03-16 04:51:44
+spend 107.449501038 seconds processing csv to mongodbafter insert: 373285508, @ 2016-03-16 04:51:50
+before insert: 373438144, @ 2016-03-16 04:55:03
+before insert: 373438144, @ 2016-03-16 04:55:03
+spend 91.8131740093 seconds processing csv to mongodbafter insert: 376935605, @ 2016-03-16 04:56:35
+spend 103.277915001 seconds processing csv to mongodbafter insert: 377325149, @ 2016-03-16 04:56:46
+before insert: 377325149, @ 2016-03-16 06:00:03
+before insert: 377325149, @ 2016-03-16 06:00:03
+spend 112.233696938 seconds processing csv to mongodbafter insert: 380649873, @ 2016-03-16 06:01:55
+before insert: 381122523, @ 2016-03-16 06:05:04
+before insert: 381122523, @ 2016-03-16 06:05:04
+spend 178.892510891 seconds processing csv to mongodbafter insert: 384991532, @ 2016-03-16 06:08:03
+spend 179.761633873 seconds processing csv to mongodbafter insert: 385017762, @ 2016-03-16 06:08:04
+spend 488.706154108 seconds processing csv to mongodbafter insert: 385116040, @ 2016-03-16 06:08:11
+before insert: 385116040, @ 2016-03-16 06:10:03
+before insert: 385116040, @ 2016-03-16 06:10:03
+spend 97.3749811649 seconds processing csv to mongodbafter insert: 388798581, @ 2016-03-16 06:11:41
+spend 103.77132988 seconds processing csv to mongodbafter insert: 388979232, @ 2016-03-16 06:11:47
+before insert: 388979232, @ 2016-03-16 06:15:03
+before insert: 388979232, @ 2016-03-16 06:15:03
+spend 94.0888178349 seconds processing csv to mongodbafter insert: 392623418, @ 2016-03-16 06:16:37
+spend 96.0817952156 seconds processing csv to mongodbafter insert: 392695591, @ 2016-03-16 06:16:39
+before insert: 392871127, @ 2016-03-16 06:20:03
+before insert: 392871127, @ 2016-03-16 06:20:03
+spend 112.179537058 seconds processing csv to mongodbafter insert: 396548168, @ 2016-03-16 06:21:55
+spend 115.696189165 seconds processing csv to mongodbafter insert: 396636531, @ 2016-03-16 06:21:59
+before insert: 396783921, @ 2016-03-16 06:25:03
+before insert: 396783921, @ 2016-03-16 06:25:03
+spend 86.850744009 seconds processing csv to mongodbafter insert: 399851733, @ 2016-03-16 06:26:30
+spend 90.0799708366 seconds processing csv to mongodbafter insert: 399990063, @ 2016-03-16 06:26:33
+before insert: 400415662, @ 2016-03-16 06:30:04
+before insert: 400415662, @ 2016-03-16 06:30:04
+spend 161.291591167 seconds processing csv to mongodbafter insert: 404022055, @ 2016-03-16 06:32:45
+spend 217.23872304 seconds processing csv to mongodbafter insert: 404598060, @ 2016-03-16 06:33:41
+before insert: 404598060, @ 2016-03-16 06:35:04
+before insert: 404598060, @ 2016-03-16 06:35:04
+spend 96.7451860905 seconds processing csv to mongodbafter insert: 408314693, @ 2016-03-16 06:36:40
+spend 104.059721947 seconds processing csv to mongodbafter insert: 408485968, @ 2016-03-16 06:36:48
+before insert: 408485968, @ 2016-03-16 06:40:03
+before insert: 408485968, @ 2016-03-16 06:40:03
+spend 90.1770138741 seconds processing csv to mongodbafter insert: 411974231, @ 2016-03-16 06:41:33
+spend 106.198637009 seconds processing csv to mongodbafter insert: 412369320, @ 2016-03-16 06:41:49
+before insert: 412369320, @ 2016-03-16 06:45:03
+before insert: 412369320, @ 2016-03-16 06:45:03
+spend 85.8968298435 seconds processing csv to mongodbafter insert: 415916240, @ 2016-03-16 06:46:29
+spend 93.0809049606 seconds processing csv to mongodbafter insert: 416164007, @ 2016-03-16 06:46:36
+before insert: 416228533, @ 2016-03-16 06:50:02
+before insert: 416228533, @ 2016-03-16 06:50:02
+spend 160.514648914 seconds processing csv to mongodbafter insert: 419472494, @ 2016-03-16 06:52:43
+spend 216.004038095 seconds processing csv to mongodbafter insert: 420117912, @ 2016-03-16 06:53:38
+before insert: 420117912, @ 2016-03-16 06:55:03
+before insert: 420117912, @ 2016-03-16 06:55:03
+spend 91.5576779842 seconds processing csv to mongodbafter insert: 423524366, @ 2016-03-16 06:56:35
+spend 101.710510015 seconds processing csv to mongodbafter insert: 423778997, @ 2016-03-16 06:56:45
+before insert: 424004917, @ 2016-03-16 07:00:03
+before insert: 424004917, @ 2016-03-16 07:00:03
+spend 107.892496109 seconds processing csv to mongodbafter insert: 427741811, @ 2016-03-16 07:01:51
+spend 108.423085928 seconds processing csv to mongodbafter insert: 427787345, @ 2016-03-16 07:01:52
+before insert: 427927827, @ 2016-03-16 07:05:03
+before insert: 427927827, @ 2016-03-16 07:05:03
+spend 109.405900955 seconds processing csv to mongodbafter insert: 431506075, @ 2016-03-16 07:06:53
+spend 115.882984877 seconds processing csv to mongodbafter insert: 431666378, @ 2016-03-16 07:06:59
+before insert: 431795808, @ 2016-03-16 07:10:03
+before insert: 431795808, @ 2016-03-16 07:10:03
+before insert: 434126788, @ 2016-03-16 07:15:04
+before insert: 434126788, @ 2016-03-16 07:15:04
+spend 386.470884085 seconds processing csv to mongodbafter insert: 435352583, @ 2016-03-16 07:16:29
+spend 393.234025002 seconds processing csv to mongodbafter insert: 435501197, @ 2016-03-16 07:16:36
+spend 253.880677938 seconds processing csv to mongodbafter insert: 438611433, @ 2016-03-16 07:19:18
+spend 271.703552008 seconds processing csv to mongodbafter insert: 438930702, @ 2016-03-16 07:19:36
+before insert: 439490021, @ 2016-03-16 07:20:03
+before insert: 439490021, @ 2016-03-16 07:20:03
+spend 123.501790047 seconds processing csv to mongodbafter insert: 442302801, @ 2016-03-16 07:22:07
+spend 196.395479202 seconds processing csv to mongodbafter insert: 443463689, @ 2016-03-16 07:23:20
+before insert: 443463689, @ 2016-03-16 07:25:04
+before insert: 443463689, @ 2016-03-16 07:25:04
+spend 115.003397942 seconds processing csv to mongodbafter insert: 447140315, @ 2016-03-16 07:26:59
+spend 123.927682877 seconds processing csv to mongodbafter insert: 447382204, @ 2016-03-16 07:27:08
+before insert: 447382204, @ 2016-03-16 07:30:03
+before insert: 447382204, @ 2016-03-16 07:30:03
+spend 93.5081088543 seconds processing csv to mongodbafter insert: 450868574, @ 2016-03-16 07:31:37
+spend 101.918914795 seconds processing csv to mongodbafter insert: 451157394, @ 2016-03-16 07:31:45
+before insert: 451277828, @ 2016-03-16 07:35:03
+before insert: 451277828, @ 2016-03-16 07:35:03
+spend 89.0483329296 seconds processing csv to mongodbafter insert: 454270047, @ 2016-03-16 07:36:32
+before insert: 454678770, @ 2016-03-16 07:40:03
+before insert: 454678770, @ 2016-03-16 07:40:03
+spend 469.936707973 seconds processing csv to mongodbafter insert: 458106623, @ 2016-03-16 07:42:53
+spend 178.844681978 seconds processing csv to mongodbafter insert: 458397508, @ 2016-03-16 07:43:02
+spend 193.758189917 seconds processing csv to mongodbafter insert: 458778734, @ 2016-03-16 07:43:17
+before insert: 459049088, @ 2016-03-16 07:45:03
+before insert: 459049088, @ 2016-03-16 07:45:03
+spend 158.931901932 seconds processing csv to mongodbafter insert: 462541976, @ 2016-03-16 07:47:42
+spend 178.665686846 seconds processing csv to mongodbafter insert: 462908301, @ 2016-03-16 07:48:02
+before insert: 462908301, @ 2016-03-16 07:50:04
+before insert: 462908301, @ 2016-03-16 07:50:04
+spend 202.044184923 seconds processing csv to mongodbafter insert: 466472859, @ 2016-03-16 07:53:26
+spend 215.480498075 seconds processing csv to mongodbafter insert: 466665316, @ 2016-03-16 07:53:40
+before insert: 466797680, @ 2016-03-16 07:55:05
+before insert: 466797680, @ 2016-03-16 07:55:05
+spend 282.573017836 seconds processing csv to mongodbafter insert: 470076947, @ 2016-03-16 07:59:47
+spend 287.186568975 seconds processing csv to mongodbafter insert: 470178994, @ 2016-03-16 07:59:52
+before insert: 470300309, @ 2016-03-16 08:00:03
+before insert: 470300309, @ 2016-03-16 08:00:03
+before insert: 474195699, @ 2016-03-16 08:05:06
+before insert: 474195699, @ 2016-03-16 08:05:06
+spend 332.071924925 seconds processing csv to mongodbafter insert: 474740662, @ 2016-03-16 08:05:35
+spend 355.066033125 seconds processing csv to mongodbafter insert: 475202817, @ 2016-03-16 08:05:58
+before insert: 477659553, @ 2016-03-16 08:10:10
+before insert: 477659669, @ 2016-03-16 08:10:10
+spend 448.922461033 seconds processing csv to mongodbafter insert: 478948206, @ 2016-03-16 08:12:35
+spend 548.4145329 seconds processing csv to mongodbafter insert: 479841133, @ 2016-03-16 08:14:15
+before insert: 480270707, @ 2016-03-16 08:15:05
+before insert: 480270707, @ 2016-03-16 08:15:05
+before insert: 482477338, @ 2016-03-16 08:20:10
+before insert: 482480389, @ 2016-03-16 08:20:11
+before insert: 484388904, @ 2016-03-16 08:25:12
+before insert: 484391734, @ 2016-03-16 08:25:13
+spend 1115.47581601 seconds processing csv to mongodbafter insert: 485750354, @ 2016-03-16 08:28:46
+before insert: 486429011, @ 2016-03-16 08:30:11
+before insert: 486429011, @ 2016-03-16 08:30:11
+before insert: 487883440, @ 2016-03-16 08:35:15
+before insert: 487883440, @ 2016-03-16 08:35:15
+before insert: 488322100, @ 2016-03-16 08:40:22
+before insert: 488322100, @ 2016-03-16 08:40:22
+before insert: 488692358, @ 2016-03-16 08:45:23
+before insert: 488692416, @ 2016-03-16 08:45:24
+before insert: 488925977, @ 2016-03-16 08:50:35
+before insert: 488925977, @ 2016-03-16 08:50:35
+before insert: 489173855, @ 2016-03-16 08:55:44
+before insert: 489174723, @ 2016-03-16 08:55:44
+before insert: 489435903, @ 2016-03-16 09:00:21
+before insert: 489435904, @ 2016-03-16 09:00:22
+before insert: 489652353, @ 2016-03-16 09:05:28
+before insert: 489652353, @ 2016-03-16 09:05:28
+before insert: 489818122, @ 2016-03-16 09:10:47
+before insert: 489818137, @ 2016-03-16 09:10:47
+before insert: 489919910, @ 2016-03-16 09:15:23
+before insert: 489924073, @ 2016-03-16 09:15:26
+before insert: 490104283, @ 2016-03-16 09:20:37
+before insert: 490109813, @ 2016-03-16 09:20:48
+before insert: 490506761, @ 2016-03-16 09:30:41
+before insert: 490506761, @ 2016-03-16 09:30:41
+before insert: 491007727, @ 2016-03-16 09:36:08
+before insert: 491007727, @ 2016-03-16 09:36:08
+before insert: 491207589, @ 2016-03-16 09:40:29
+before insert: 491207589, @ 2016-03-16 09:40:29
+before insert: 491488131, @ 2016-03-16 09:45:24
+before insert: 491488014, @ 2016-03-16 09:45:25
+before insert: 491896458, @ 2016-03-16 09:50:24
+before insert: 491899972, @ 2016-03-16 09:50:29
+spend 5910.99191904 seconds processing csv to mongodbafter insert: 492251425, @ 2016-03-16 09:53:38
+before insert: 492337307, @ 2016-03-16 09:55:41
+before insert: 492337310, @ 2016-03-16 09:55:41

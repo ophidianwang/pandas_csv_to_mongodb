@@ -1,0 +1,23 @@
+0 19 * * * /home/btserver/pandas_csv_to_mongodb/shard.sh
+*/5 20 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 21 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 22 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 23 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+
+0 0 * * * /home/btserver/pandas_csv_to_mongodb/shard.sh
+*/5 1 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 2 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 3 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 4 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+
+0 5 * * * /home/btserver/pandas_csv_to_mongodb/shard.sh
+*/5 6 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 7 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 8 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 9 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+
+0 10 * * * /home/btserver/pandas_csv_to_mongodb/shard.sh
+*/5 11 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 12 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 13 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
+*/5 14 * * * /home/btserver/pandas_csv_to_mongodb/crond_run.sh
