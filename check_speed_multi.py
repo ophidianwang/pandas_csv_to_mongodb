@@ -15,10 +15,13 @@ from pymongo import MongoClient
 target_interval = sys.argv[1]
 target_fms =  sys.argv[2:]
 
+hostname = socket.gethostname()
 hour = str(datetime.now().hour)
-log_path = os.path.dirname(os.path.abspath(__file__)) + "/check_speed_multi.log"
+log_path = "{0}/log/check_speed_multi_{1}_{2}.log".format(
+    os.path.dirname(os.path.abspath(__file__)), hostname, datetime.now().strftime("%Y%m%d%H%M"))
 
-mongo_hosts = ["172.17.24.217", "172.17.24.218", "172.17.24.219"]
+# mongo_hosts = ["172.17.24.217", "172.17.24.218", "172.17.24.219"]
+mongo_hosts = [hostname]
 shuffle(mongo_hosts)
 
 client = MongoClient(mongo_hosts, 40000)
@@ -29,9 +32,11 @@ collection = db["case1"]
 
 before_count = collection.count()
 before_timestamp = time()
+
 with open(log_path, "a") as log_file:
-    log_file.write("before insert: {0}, @ {1}".format(before_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
-# print("before insert: {0}, @ {1}".format(before_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
+    log_file.write("before insert: {0}, @ {1}\n".format(before_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
+
+print("before insert: {0}, @ {1}".format(before_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
 
 root_dir = "/home/btserver/xdr/{0}/".format(target_interval)
 all_dir_list = os.listdir(root_dir)
@@ -59,8 +64,10 @@ for dir_name in dir_list:
 
 after_timestamp = time()
 after_count = collection.count()
+
 with open(log_path, "a") as log_file:
-    log_file.write("spend {0} seconds processing csv to mongodb".format(after_timestamp - before_timestamp))
-    log_file.write("after insert: {0}, @ {1}".format(after_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
-# print("spend {0} seconds processing csv to mongodb".format(after_timestamp - before_timestamp))
-# print("after insert: {0}, @ {1}".format(after_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
+    log_file.write("spend {0} seconds processing csv to mongodb\n".format(after_timestamp - before_timestamp))
+    log_file.write("after insert: {0}, @ {1}\n".format(after_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))
+
+print("spend {0} seconds processing csv to mongodb".format(after_timestamp - before_timestamp))
+print("after insert: {0}, @ {1}".format(after_count, datetime.now().strftime("%Y-%m-%d %H:%M:%S")))

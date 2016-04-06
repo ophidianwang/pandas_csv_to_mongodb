@@ -1,7 +1,8 @@
 
 before insert: 3887005, @ 2016-03-15 20:00:01
 before insert: 3887005, @ 2016-03-15 20:00:01
-spend 68.6091070175 seconds processing csv to mongodbafter insert: 7312537, @ 2016-03-15 20:01:10
+spend 68.6091070175 seconds processing csv to mongodb
+after insert: 7312537, @ 2016-03-15 20:01:10
 spend 75.6458489895 seconds processing csv to mongodbafter insert: 7634379, @ 2016-03-15 20:01:17
 before insert: 7809915, @ 2016-03-15 20:05:02
 before insert: 7809915, @ 2016-03-15 20:05:02
